@@ -1,1 +1,1 @@
-<img src="https://github.com/kshalot/kshalot/raw/master/assets/burusia.jpeg">
+<img src="https://github.com/kshalot/kshalot/raw/master/assets/thinking.gif">
